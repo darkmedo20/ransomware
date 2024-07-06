@@ -1,5 +1,5 @@
 # ransomware
-it is encryption script that will encrypt all of the file in the wd.
+It is an encryption script that will encrypt all of the file in the working directory.
 
 requirements:
 Fernet module should be installed.
