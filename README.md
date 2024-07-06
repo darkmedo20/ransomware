@@ -11,3 +11,4 @@ showcase.py is the malware.
 you can edit the secret phrase in the decrypt.py file.
 
 send it to your victim now !!.
+![Uploading ransomware.jpg…]()
